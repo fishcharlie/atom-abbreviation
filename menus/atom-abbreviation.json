@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-abbreviation",
-        "command": "atom-abbreviation:toggle"
+        "label": "Atom Abbreviate",
+        "command": "atom-abbreviation:abbreviation"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-abbreviation",
+          "label": "Atom Abbreviate",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-abbreviation:toggle"
+              "label": "Abbreviate",
+              "command": "atom-abbreviation:abbreviation"
             }
           ]
         }
