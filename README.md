@@ -38,4 +38,4 @@ HTML+Bootstrap+jQuery Key Codes:
 - !jqbs
 - !jquerybootstrap
 - !bsjq
-- !bootstrapjquery"
+- !bootstrapjquery
