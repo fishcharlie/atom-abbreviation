@@ -1,5 +1,41 @@
 # atom-abbreviation package
 
-A short description of your package.
+This Atom Package allows you to quickly start HTML documents from templates. Using the shortcut control+option+x will active this package.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Use:
+
+- Open blank Atom document
+- Type one of the following key code into the document
+- Using the key command control+option+x will automaticly transfer the key code into a template
+
+
+
+HTML Key Codes:
+
+- !
+- html
+
+HTML+jQuery Key Codes:
+
+- htmljq
+- htmljquery
+- !jq
+- !jquery
+
+HTML+Bootstrap Key Codes:
+
+- htmlbs
+- htmlbootstrap
+- !bs
+- !Bootstrap
+
+HTML+Bootstrap+jQuery Key Codes:
+
+- htmljqbs
+- htmljquerybootstrap
+- htmlbsjq
+- htmlbootstrapjquery
+- !jqbs
+- !jquerybootstrap
+- !bsjq
+- !bootstrapjquery"
