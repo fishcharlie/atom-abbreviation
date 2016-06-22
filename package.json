@@ -1,14 +1,15 @@
 {
   "name": "atom-abbreviation",
   "main": "./lib/atom-abbreviation",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Quick HTML templates to start your project",
   "keywords": [
+    "html","templates"
   ],
   "activationCommands": {
     "atom-text-editor": "atom-abbreviation:abbreviation"
   },
-  "repository": "https://github.com/atom/atom-abbreviation",
+  "repository": "https://github.com/fishcharlie/atom-abbreviation",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
