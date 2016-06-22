@@ -1,5 +1,5 @@
 {
   "atom-text-editor": {
-    "cmd-alt-x": "atom-abbreviation:abbreviation"
+    "ctrl-alt-x": "atom-abbreviation:abbreviation"
   }
 }
