@@ -6,7 +6,7 @@ Use:
 
 - Open blank Atom document
 - Type one of the following key code into the document
-- Using the key command control+option+x will automaticly transfer the key code into a template
+- Using the key command control+option+x will automatically transfer the key code into a template
 
 
 
