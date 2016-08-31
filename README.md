@@ -30,6 +30,11 @@ Add handlebars:
 - hs
 - handlebars
 
+Add Angular:
+
+- ng
+- angular
+
 
 
 Examples:
