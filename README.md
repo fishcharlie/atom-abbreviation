@@ -35,6 +35,10 @@ Add Angular:
 - ng
 - angular
 
+Add scriptutils:
+
+- su
+- scriptutils
 
 
 Examples:
